@@ -1,1 +1,0 @@
-print(Hola GBI6)
